@@ -1,5 +1,7 @@
 -----
+
 Created by Pouya Rezazadeh Kalehbasti (Rezazadeh.Pouya@gmail.com)
+
 -----
 
 # Simple_Technical_Stock_Analyzer
